@@ -244,7 +244,7 @@ shinyUI(
                        12,
                        sliderInput(
                          inputId = "FDR_dot_plot",
-                         label = div(style = "font-size: 14px", "FDR threshold"),
+                         label = div(style = "font-size: 16px", "FDR threshold"),
                          min = -5,
                          max = -1,
                          value = -1,

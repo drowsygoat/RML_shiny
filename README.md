@@ -1,2 +1,2 @@
 # RML_shiny
-Shiny app for RML paper
+Shiny App for browsing RML data
