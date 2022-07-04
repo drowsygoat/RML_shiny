@@ -144,19 +144,19 @@ shinyUI(
     ),
     # tags$style(type = "text/css", "label.control-label, .js-range-slider {text-align: center; vertical-align: middle; } .form-group { display: table-row;}"),
     
-    tags$style(
-      type = "text/css",
-      ".irs-to {background: green;}
-       .irs-from {background: green;}
-       .irs-bar {background: grey; height: 5px;}
-       .irs-bar-edge {background: grey; height: 5px; width: 5px;}
-       .irs-line {border: 1px solid black; height: 6px;}
-       .irs-single {background: grey}
-       .irs-double {background: grey;}
-       .irs-max {display: none;}
-       .irs-min {display: none;}
-       .irs-slider {width: 7px; height: 12px; top: 22px; background: black;}"
-    ),
+    # tags$style(
+    #   type = "text/css",
+    #   ".irs-to {background: green;}
+    #    .irs-from {background: green;}
+    #    .irs-bar {background: grey; height: 5px;}
+    #    .irs-bar-edge {background: grey; height: 5px; width: 5px;}
+    #    .irs-line {border: 1px solid black; height: 6px;}
+    #    .irs-single {background: grey;}
+    #    .irs-double {background: grey;}
+    #    .irs-max {display: none;}
+    #    .irs-min {display: none;}
+    #    .irs-slider {width: 7px; height: 12px; top: 22px; background: black;}"
+    # ),
     
     navbarPage(
       title = "Scrapie RML RiboTag",
