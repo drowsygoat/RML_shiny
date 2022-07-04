@@ -248,7 +248,7 @@ shinyUI(
                          min = -5,
                          max = -1,
                          value = -1,
-                         step = 0.25,
+                         step = 0.1,
                          ticks = TRUE,
                          width = "200px"
                        )
